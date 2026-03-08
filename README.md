@@ -1,11 +1,11 @@
 # statement-ai
 An AI-powered engine that automatically parses financial statements, calculates key ratios, and generates human-readable executive summaries.
-📈 Statements.in Analytics: White-Label Financial Statement AI
-Stop drowning in spreadsheets. FinAI Analytics turns static financial statements into clear, actionable, and automated insights—all under your brand.
+📈 Statements.in : White-Label Financial Statement AI
+Stop drowning in spreadsheets. Statements.in turns static financial statements into clear, actionable, and automated insights—all under your brand.
 
 This repository is a promotional showcase for our in-development SaaS/API solution, designed to help you effortlessly embed powerful financial intelligence into your platform.
 
-🚀 What is Statements.in Analytics?
+🚀 What is Statements.in ?
 Statements.in Analytics is an intelligent engine that automates the tedious work of financial analysis. Simply upload an Excel-based financial statement, and our AI does the rest: from parsing messy data to generating board-ready executive summaries. It's designed for fintechs, lenders, and advisory firms who need to deliver sophisticated financial insights at scale, without the manual overhead.
 
 ✨ Key Features
